@@ -1,5 +1,5 @@
 
-
+# I decided to not use this segement of code because it is over convoluted compared to my streamlined version.  However this was a good first rough draft during the process
 # powerup timer and spawning lock
     if powerup_timer > 0:      # positive mode counts super snake time remaining
         powerup_timer -= 1
@@ -26,6 +26,7 @@
 
 
 
+# this is my first attempt for the hard part: The engine that makes the snake move
 
 
 
